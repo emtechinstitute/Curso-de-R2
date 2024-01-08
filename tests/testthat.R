@@ -1,5 +1,4 @@
 # Contenido de tests/testthat.R
-
 library(testthat)
 library(yourpackagename) # si tus funciones están en un paquete, cámbialo por el nombre real
 
