@@ -1,7 +1,7 @@
 # tests/testthat/test-tu_script.R
 
 library(testthat)
-library(tu_paquete) # si tu código está en un paquete
+#library(tu_paquete) # si tu código está en un paquete
 
 context("Pruebas para tu_script.R")
 
